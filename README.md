@@ -1,1 +1,4 @@
 # Portafolio-Power-BI
+¡Bienvenido a mi portafolio de Power BI! Mi nombre es Adrian, y soy un apasionado profesional de la inteligencia de negocios con una sólida experiencia en la creación de soluciones de visualización de datos impactantes y perspicaces. A lo largo de mi carrera, he desarrollado habilidades avanzadas en análisis de datos, modelado de datos y creación de informes interactivos.
+
+En este portafolio, encontrarás una colección de proyectos que demuestran mi capacidad para transformar datos complejos en información clara y útil para la toma de decisiones. Cada proyecto está diseñado para resaltar diferentes aspectos de mis habilidades en Power BI, desde la importación y transformación de datos hasta la creación de visualizaciones avanzadas y la implementación de medidas DAX para análisis profundos.
